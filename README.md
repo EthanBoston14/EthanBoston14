@@ -13,9 +13,3 @@
 <a href="https://www.youtube.com/c/@huskerwhiskerss](https://www.youtube.com/@Huskerwhiskerss?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@huskerwhiskerss" height="30" width="40" /></a>
 <a href="https://discord.gg/eSYQk9q7jT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eSYQk9q7jT" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethanboston13&show_icons=true&locale=en&layout=compact" alt="ethanboston13" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethanboston13&show_icons=true&locale=en" alt="ethanboston13" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ethanboston13&" alt="ethanboston13" /></p>
